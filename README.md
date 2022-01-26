@@ -1,2 +1,2 @@
 # TinyTasks
-Web Application to get Tiny Tasks around
+Web Application to get Tiny Tasks(Part-Time) around
